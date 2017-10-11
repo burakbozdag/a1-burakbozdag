@@ -1,4 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+}
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
+}
+
+table.pic_atari{
+	float: right;
+	width: 300px;
+}
+
+table.pic_editor{
+	float: right;
+	width: 325px;
 }
