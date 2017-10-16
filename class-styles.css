@@ -1,0 +1,26 @@
+.index{
+	color: white;
+	background-image: url(img/game.jpg);
+}
+table.pic_atari{
+	float: right;
+	width: 300px;
+}
+
+table.pic_editor{
+	float: right;
+	width: 325px;
+}
+.refer{
+	float: left;
+}
+.popular{
+	text-decoration: none;
+	background-image: url(img/gaming.png);
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+.links{
+	color: black;
+	text-decoration: none;
+}
