@@ -24,3 +24,20 @@ table.pic_editor{
 	color: black;
 	text-decoration: none;
 }
+.circle{
+	list-style-type: circle;
+	padding-bottom: 0;
+}
+.li{
+	margin-left:1em;
+	padding-bottom: 0;
+}
+.navigation{
+	text-decoration: underline;
+}
+nav{
+	margin: 2em;
+}
+.see{
+	text-decoration: underline;
+}
