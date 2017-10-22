@@ -29,7 +29,7 @@ table.pic_editor{
 	padding-bottom: 0;
 }
 .li{
-	margin-left:1em;
+	margin-left: 1em;
 	padding-bottom: 0;
 }
 .navigation{
@@ -40,4 +40,12 @@ nav{
 }
 .see{
 	text-decoration: underline;
+}
+.logo{
+	display: block;
+	margin: auto;
+	background: transparent;
+}
+.img_container{
+	float: right;
 }
